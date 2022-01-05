@@ -17,7 +17,7 @@ texto = replace_last("a--aaasasda-, "-", "")
 print(texto)
 ~~~
 
-#Simple Translator
+# Simple Translator
 
 ~~~python
 from deep_translator import GoogleTranslator
